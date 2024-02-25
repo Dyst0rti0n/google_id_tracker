@@ -14,3 +14,7 @@ Location tracking using Google Authenticator ID
 9. Then go to https://clients6.google.com
 10. Type in the email address
 11. Now you can go to google maps at https://www.google.com/maps/contrib/1234567/reviews Replace the number on the end with the extracted number from the email.
+
+
+### Credits
+Thanks to https://github.com/pentestfunctions being the first person I seen do this.
